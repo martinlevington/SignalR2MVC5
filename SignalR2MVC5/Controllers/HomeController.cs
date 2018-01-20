@@ -26,5 +26,19 @@ namespace SignalR2MVC5.Controllers
 
             return View();
         }
+
+        public ActionResult Chat()
+        {
+            return View();
+        }
+
+
+        public ActionResult StockTicker()
+        {
+            return View();
+        }
+
+
+
     }
 }
